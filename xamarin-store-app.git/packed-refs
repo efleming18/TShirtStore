@@ -1,6 +1,0 @@
-# pack-refs with: peeled fully-peeled 
-ce4d82d9bd159b147d87334d318e49eb8d0333af refs/heads/FSharp
-11353e633dff18cbeab51eb7392b0df7379729c3 refs/heads/build
-30f129f5945f320773c31d480ce4d48e369fde5c refs/heads/master
-27ca56713d665b9a3ba7107698aa334c0315fa0f refs/heads/pcl
-0401601f23c5b5919b008b1b8b10b5f6161736e3 refs/heads/shared-code-project
